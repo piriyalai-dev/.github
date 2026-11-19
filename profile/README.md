@@ -8,8 +8,8 @@ Student-led open-source organization maintaining software, web services, and har
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [`pirivoice`](https://github.com/piriyalai-dev/pirivoice) | Student feedback and issue portal with tiered escalation. | FastAPI, Vue, PostgreSQL, Docker Swarm, Traefik | Active |
-| [`piriyalai-green-cheer-stand`](https://github.com/piriyalai-dev/piriyalai-green-cheer-stand) | Data-driven cheer-stand web app with song timelines, seat search, and printable badges. | Web | Archived / Event |
+| [`pirivoice`](https://github.com/piriyalai-dev/pirivoice) | Student feedback and issue portal with tiered escalation. [www.pirivoice.com](https://www.pirivoice.com) | FastAPI, Vue, PostgreSQL, Docker Swarm, Traefik | Active |
+
 
 ## Contributing
 
