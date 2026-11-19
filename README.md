@@ -10,7 +10,6 @@ Student-led open-source organization maintaining software, web services, and har
 | :--- | :--- | :--- | :--- |
 | [`pirivoice`](https://github.com/piriyalai-dev/pirivoice) | Student feedback and issue portal with tiered escalation. | FastAPI, Vue, PostgreSQL, Docker Swarm, Traefik | Active |
 | [`piriyalai-green-cheer-stand`](https://github.com/piriyalai-dev/piriyalai-green-cheer-stand) | Data-driven cheer-stand web app with song timelines, seat search, and printable badges. | Web | Archived / Event |
-| [`piriyalai-robot`](https://github.com/piriyalai-dev/piriyalai-robot) | Arduino line-following and maze robot firmware across four difficulty tiers for the school robotics club. | C++ / Arduino | Active |
 
 ## Contributing
 
